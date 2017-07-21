@@ -1,0 +1,16 @@
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.exe.config
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.exe
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.pdb
+C:\Users\edemello\Documents\Crowe\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\edemello\Documents\Crowe\obj\Debug\Crowe.exe
+C:\Users\edemello\Documents\Crowe\obj\Debug\Crowe.pdb
+C:\Users\edemello\Documents\Crowe\bin\Debug\API.dll
+C:\Users\edemello\Documents\Crowe\bin\Debug\API.pdb
+G:\Crowe\bin\Debug\Crowe.exe.config
+G:\Crowe\obj\Debug\Crowe.exe
+G:\Crowe\obj\Debug\Crowe.pdb
+G:\Crowe\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+G:\Crowe\bin\Debug\Crowe.exe
+G:\Crowe\bin\Debug\Crowe.pdb
+G:\Crowe\bin\Debug\API.dll
+G:\Crowe\bin\Debug\API.pdb

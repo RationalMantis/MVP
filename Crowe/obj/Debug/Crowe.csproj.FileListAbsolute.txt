@@ -1,0 +1,6 @@
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.exe.config
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.exe
+C:\Users\edemello\Documents\Crowe\bin\Debug\Crowe.pdb
+C:\Users\edemello\Documents\Crowe\obj\Debug\Crowe.csprojResolveAssemblyReference.cache
+C:\Users\edemello\Documents\Crowe\obj\Debug\Crowe.exe
+C:\Users\edemello\Documents\Crowe\obj\Debug\Crowe.pdb

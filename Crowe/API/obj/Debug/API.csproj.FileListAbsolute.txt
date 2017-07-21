@@ -1,0 +1,5 @@
+C:\Users\edemello\Documents\API\bin\Debug\API.dll
+C:\Users\edemello\Documents\API\bin\Debug\API.pdb
+C:\Users\edemello\Documents\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\edemello\Documents\API\obj\Debug\API.dll
+C:\Users\edemello\Documents\API\obj\Debug\API.pdb

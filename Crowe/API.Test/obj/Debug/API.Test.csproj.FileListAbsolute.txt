@@ -1,0 +1,14 @@
+C:\Users\edemello\Documents\Crowe\API.Test\obj\Debug\API.Test.csprojResolveAssemblyReference.cache
+C:\Users\edemello\Documents\Crowe\API.Test\bin\Debug\API.Test.dll
+C:\Users\edemello\Documents\Crowe\API.Test\bin\Debug\API.Test.pdb
+C:\Users\edemello\Documents\Crowe\API.Test\bin\Debug\API.dll
+C:\Users\edemello\Documents\Crowe\API.Test\bin\Debug\API.pdb
+C:\Users\edemello\Documents\Crowe\API.Test\obj\Debug\API.Test.dll
+C:\Users\edemello\Documents\Crowe\API.Test\obj\Debug\API.Test.pdb
+G:\Crowe\API.Test\bin\Debug\API.Test.dll
+G:\Crowe\API.Test\bin\Debug\API.Test.pdb
+G:\Crowe\API.Test\bin\Debug\API.dll
+G:\Crowe\API.Test\bin\Debug\API.pdb
+G:\Crowe\API.Test\obj\Debug\API.Test.csprojResolveAssemblyReference.cache
+G:\Crowe\API.Test\obj\Debug\API.Test.dll
+G:\Crowe\API.Test\obj\Debug\API.Test.pdb
